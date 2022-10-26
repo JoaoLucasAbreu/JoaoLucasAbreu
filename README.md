@@ -4,7 +4,7 @@
 - 🚀 Interessado na área de Ciência e Análise de Dados.
 <div>
   <a href="https://github.com/JoaoLucasAbreu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoLucasAbreu&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoLucasAbreu&show_icons=true&theme=merko&include_all_commits=true&count_private=true&bg_color=c1fe01"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucasAbreu&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
