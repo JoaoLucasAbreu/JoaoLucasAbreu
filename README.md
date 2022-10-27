@@ -1,7 +1,8 @@
 ### Olá, eu sou o João Lucas!
 
 - 💾 Estudante de Sistemas de Informação.
-- 🚀 Interessado na área de Ciência e Análise de Dados.
+- 🚀 Interessado na Área de Ciência e Análise de Dados.
+- 🧪 Participando de Projetos de Iniciação Científica.
 <div>
   <a href="https://github.com/JoaoLucasAbreu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoLucasAbreu&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=c1fe01"/>
