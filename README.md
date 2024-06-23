@@ -1,8 +1,8 @@
-[![header](./banner.jpg)](https://aar.one)
+[![header](./banner.png)](https://aar.one)
 
 # Hello, World! Im João 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=joaolucasabreu&label=Profile%20views&color=e56717&style=flat)
 
 <div class="github-introduction">
 
@@ -10,7 +10,6 @@ Im a **Web Developer** who loves to bring ideas to life in the browser. I grew u
 
 </div>
 
-- 💼 Got a freelance gig? Hit me up via <a href="mailto:code@aar.one">email.</a>
 - 💬 Curious? Just ask!
 
 <div class="badges-intro">
