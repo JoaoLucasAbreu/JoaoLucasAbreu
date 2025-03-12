@@ -6,7 +6,8 @@
 
 <div class="github-introduction">
 
-Im a **Web Developer** who loves to bring ideas to life in the browser. I grew up in the 90's early 2000's and fell in love with the internet. Therefore I am excited about designing and developing websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. Also, I kind of want to bring back the 90's web design aesthetic. I think it was cool. 😎
+I'm a **Software Developer** who loves designing and structuring solutions. I have extensive experience in coding, including building APIs, ingestion systems, and portals. I've worked with a wide range of technologies available in the market.
+I have a strong passion for building and planning applications, ensuring scalability and efficiency. Additionally, I enjoy integrating my projects with cloud solutions, optimizing performance and reliability. 🚀
 
 </div>
 
@@ -31,8 +32,8 @@ Im a **Web Developer** who loves to bring ideas to life in the browser. I grew u
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=joaolucasabreu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaolucasabreu&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=joaolucasabreu&theme=shadow_red" alt="Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaolucasabreu&theme=shadow_red" alt="Streak" height="165">
   </p>
 </div>
 
