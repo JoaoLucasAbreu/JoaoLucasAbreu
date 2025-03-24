@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Lucas!
 
-- 💾 Estudante de Sistemas de Informação.
-- 🚀 Interessado na Área de Engenharia de Dados.
+- 💾 Formado em Sistemas de Informação.
+- 🚀 Interessado na Área de Engenharia de Nuvem.
 - 🧪 Participando de Projetos de Iniciação Científica.
 <div>
   <a href="https://github.com/JoaoLucasAbreu">
